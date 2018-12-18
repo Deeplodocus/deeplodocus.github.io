@@ -1,10 +1,10 @@
 # Config
 
-##Project
+## Project
 
 All global project configurations are stored in `config/project.yaml`.
 
-####name
+#### name
 
 Specify the name of your project.
 
@@ -13,7 +13,7 @@ Example:
 name: "deeplodocus_project"
 ~~~
 
-####cv_library
+#### cv_library
 
 Specify the computer vision library with which to read and manipulate image or video files.
 
@@ -61,18 +61,18 @@ on_wake:
 
 
 
-##Model
+## Model
 
-##Optimizer
+## Optimizer
 
-##Metrics
+## Metrics
 
-##Training
+## Training
 
-##Data
+## Data
 
-##Transform
+## Transform
 
-##History
+## History
 
-##Losses
+## Losses
